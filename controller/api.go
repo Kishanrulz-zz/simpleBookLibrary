@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"ExamplesDemo/Lib/pkg"
+	"github.com/kishanrulz/simpleBookLibrary/pkg"
 	"gopkg.in/mgo.v2"
 )
 

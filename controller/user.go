@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"ExamplesDemo/Lib/model"
+	"github.com/kishanrulz/simpleBookLibrary/model"
 	"encoding/json"
 	"fmt"
 	"github.com/julienschmidt/httprouter"

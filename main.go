@@ -1,9 +1,9 @@
 package main
 
 import (
-	"ExamplesDemo/Lib/controller"
 	"fmt"
 	"github.com/julienschmidt/httprouter"
+	"github.com/kishanrulz/simpleBookLibrary/controller"
 	"net/http"
 )
 
